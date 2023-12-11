@@ -1,6 +1,6 @@
 # Smile Detection and Attendance Marking
 
-This repository contains a Python script (`main.py`) for smile detection and attendance marking using a webcam. The script uses OpenCV, face_recognition, and Tkinter libraries. Additionally, it includes the required files (`attendance.csv`, `haarcascade_frontalface_default.xml`, and `haarcascade_smile.xml`).
+Smile Attendance is a Python project designed for automated smile detection and attendance marking using a laptop's webcam. Leveraging OpenCV, face_recognition, and Tkinter, this project provides a user-friendly interface for real-time facial recognition. The system not only identifies individuals in the camera feed but also marks their attendance when a smile is detected.
 ![image](https://github.com/agung-madani/smile-recognition-attendance/assets/121701309/def7f761-465c-4356-ba3d-33df56ecdb43)
 
 
